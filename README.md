@@ -1,2 +1,4 @@
-# IMAGE-COMPRESSOR-RESIZER
-Project: Image Compressor Resizer
+# PixelLite
+
+Working local MVP matching its project prompt. Open index.html directly or from the mini-projects local server.
+
